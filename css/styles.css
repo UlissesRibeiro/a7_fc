@@ -31,7 +31,7 @@ body {
 /* dark mode fim */
 
 #main{
-
+margin-top: 50px;
 }
 
 #team{
@@ -123,6 +123,57 @@ body {
   width: 20%;
 }
 
+#portifolio{
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #portifolio img{
+      width: 400px;
+      height: ;
+  
+  }
+
+
+#projeto1{
+min-height: 300px;
+
+padding-top: 5px;
+display: none;
+
+}
+#StreamersPB img{
+  width: 600px;
+  height: 300px;
+}
+
+/* CLASSES */
+#projt1{
+    background-image: url("../media/img/Logo_of_Garena_Free_Fire.png");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100px;
+    width: 100%;
+  }
+  
+  #projt2{
+    background-image: url("../media/img/pubg_mobile_logo.png");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100px;
+    width:100%;
+  }
+  
+  #projt3{
+    background-image: url("../img/banner3.webp");
+    background-size: 55%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100px;
+    width:100%;
+  }
 /* css responsivo provisorio */
 @media(max-width: 450px){
 
