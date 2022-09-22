@@ -30,6 +30,22 @@ body {
   }
 /* dark mode fim */
 
+#banner_line_pubg{
+  width: cover;
+  /*background-image: url("../media/img/line_pubg.jpeg");*/
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: auto;
+  width: auto;
+
+ 
+}
+#banner_equipe{
+  
+  margin-top: 150px;
+  
+}
 #main{
 margin-top: 50px;
 }
